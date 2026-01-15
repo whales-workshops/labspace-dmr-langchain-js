@@ -26,7 +26,7 @@ docker model run ai/qwen2.5:0.5B-F16
 
 **DMR Base URLs:**
 - From Containers: `http://model-runner.docker.internal/`
-- FROM Host (TCP): `http://localhost:12434/`
+- FROM Host: `http://localhost:12434/`
 
 **Model Management Endpoints:**
 - `POST /models/create` - Create a new model
