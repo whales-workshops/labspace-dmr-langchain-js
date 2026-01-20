@@ -2,10 +2,11 @@
   "name": "first-steps-with-docker-model-runner",
   "type": "module",
   "dependencies": {
-    "@langchain/openai": "^0.5.18",
+    "@langchain/core": "^0.3.58",
+    "@langchain/openai": "^0.4.5",
     "@langchain/textsplitters": "^0.1.0",
     "dotenv": "^16.0.0",
-    "langchain": "^0.3.29",
+    "langchain": "^0.3.37",
     "prompts": "^2.4.2",
     "zod": "^3.25.76"
   }
